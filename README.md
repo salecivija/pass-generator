@@ -8,8 +8,12 @@ This is a simple password generator script that creates a window with a button a
 
 ```bash
 pip install PyQt5
-Run the script:
+```
+
+2. Run the script:
+```bash
 python main.py
+```
 
 ## How the password is generated
 
